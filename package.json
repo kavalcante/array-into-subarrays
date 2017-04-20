@@ -1,6 +1,6 @@
 {
   "name": "array-into-subarrays",
-  "version": "1.1",
+  "version": "1.1.0",
   "description": "A non destructive and simple function that divide an array into multiples subarrays",
   "main": "dist/index.js",
   "scripts": {
