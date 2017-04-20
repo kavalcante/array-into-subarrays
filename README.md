@@ -1,7 +1,10 @@
 # Array into Subarrays
 
-Insert a array list and receive a new list (non destructive) with groups of elements (subarrays).
+[![Build Status](https://travis-ci.org/kavalcante/array-into-subarrays.svg?branch=master)](https://travis-ci.org/kavalcante/array-into-subarrays)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/kavalcante/array-into-subarrays/master/LICENSE)
+[![npm version](https://badge.fury.io/js/array-into-subarrays.svg)](https://badge.fury.io/js/array-into-subarrays)
 
+Insert a array list and receive a new list (non destructive) with groups of elements (subarrays).
 
 ### Installing
 
