@@ -30,7 +30,7 @@ arrayIntoSubarrays(array, 4) // => [[1, 2, 3, 4], [5, 6, 7, 8], [9]];
 
 | Option        | Default       | Type   | Description  |
 | :------------ | :------------ | :----- | :--------- |
-| __array__     | no default value | array | The text that will be truncated. |
+| __array__     | no default value | array | Array that will be divided. |
 | __limit__   | 4 | number | Length of subarrays. |
 
 ## License
