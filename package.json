@@ -2,7 +2,7 @@
   "name": "array-into-subarrays",
   "version": "1.0.0",
   "description": "A non destructive and simple function that divide an array into multiples subarrays",
-  "main": "index.min.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "./node_modules/.bin/babel -d dist/ src/",
     "test": "./node_modules/.bin/mocha tests/**/*.spec.js --require babel-register"
