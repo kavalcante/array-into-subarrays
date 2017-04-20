@@ -19,11 +19,19 @@ import arrayIntoSubarrays from 'array-into-subarrays';
 
 const array = [1, 2, 3, 4, 5, 6, 7, 8, 9] // could be any data, and how much indexes do you want.
 
-const newArray = arrayIntoSubarrays(array);
+arrayIntoSubarrays(array, 4) // => [[1, 2, 3, 4], [5, 6, 7, 8], [9]];
 
 // you can invoke the function in any part of your code, because is a non destructive function
 
 ```
+
+## Attributes
+
+
+| Option        | Default       | Type   | Description  |
+| :------------ | :------------ | :----- | :--------- |
+| __array__     | no default value | array | The text that will be truncated. |
+| __limit__   | 4 | number | Length of subarrays. |
 
 ## License
 
