@@ -31,4 +31,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* [http://stackoverflow.com/questions/11318680/split-array-into-chunks-of-n-length](copy from Stack Overflow answear)
+* [copy from Stack Overflow answear](http://stackoverflow.com/questions/11318680/split-array-into-chunks-of-n-length)

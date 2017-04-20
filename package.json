@@ -1,0 +1,27 @@
+{
+  "name": "array-into-subarrays",
+  "version": "1.0.0",
+  "description": "A non destructive and simple function that divide an array into multiples subarrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kavalcante/array-into-subarrays.git"
+  },
+  "keywords": [
+    "javascript",
+    "functional-programming",
+    "function",
+    "nodejs",
+    "array",
+    "subarray"
+  ],
+  "author": "João Vitor Cavalcante <contato@kavalcante.com> (https://kavalcante.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kavalcante/array-into-subarrays/issues"
+  },
+  "homepage": "https://github.com/kavalcante/array-into-subarrays#readme"
+}
